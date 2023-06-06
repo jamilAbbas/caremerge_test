@@ -1,5 +1,6 @@
 # caremerge_test
 Clone the repository and install the dependencies.
+Run `npm run dev` to start the server.
 
 ## Testing implementations
 Please check the routes/title.js file and test each function by uncommenting the routes.
